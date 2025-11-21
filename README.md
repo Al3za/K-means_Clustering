@@ -28,7 +28,6 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Usage](#usage)
-    - [Testing](#testing)
 
 ---
 
@@ -58,7 +57,7 @@ This project requires the following dependencies:
 
 ### Installation
 
-Build K-means_Clustering from the source and install dependencies:
+Build K-means_Clustering from the source and install dependencies: **sktlearn**, **numpy**, **matplotlib**, **pandas**
 
 1. **Clone the repository:**
 
