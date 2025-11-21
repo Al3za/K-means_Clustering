@@ -1,0 +1,42 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+*.tmp
+
+# --- Virtual environment ---
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- VS Code / IDE files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Data files (opzionale ma consigliato) ---
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.joblib
+
+# --- Build / cache ---
+dist/
+build/
+*.egg-info/
+.cache/
