@@ -53,7 +53,7 @@ This project helps developers perform reliable data segmentation with ease. The 
 
 This project requires the following dependencies:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** Jupyter Notebook, Python
 
 ### Installation
 
@@ -73,7 +73,7 @@ Build K-means_Clustering from the source and install dependencies: **sktlearn**,
 
 3. **Install the dependencies:**
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
+echo 'pip install numpy pandas scikit-learn matplotlib'
 
 ### Usage
 
