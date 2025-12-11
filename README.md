@@ -77,9 +77,7 @@ echo 'pip install numpy pandas scikit-learn matplotlib'
 
 ### Usage
 
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
+Run the project with by clicking **Ctrl+Enter** on each jupyter notebook "block"
 
 
 
